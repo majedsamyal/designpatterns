@@ -1,0 +1,14 @@
+C:\Users\Majed_Samyal\source\repos\designpatterns\obj\Debug\netcoreapp3.1\designpatters.csprojAssemblyReference.cache
+C:\Users\Majed_Samyal\source\repos\designpatterns\obj\Debug\netcoreapp3.1\designpatters.csproj.CoreCompileInputs.cache
+C:\Users\Majed_Samyal\source\repos\designpatterns\bin\Debug\netcoreapp3.1\designpatters.exe
+C:\Users\Majed_Samyal\source\repos\designpatterns\bin\Debug\netcoreapp3.1\designpatters.deps.json
+C:\Users\Majed_Samyal\source\repos\designpatterns\bin\Debug\netcoreapp3.1\designpatters.runtimeconfig.json
+C:\Users\Majed_Samyal\source\repos\designpatterns\bin\Debug\netcoreapp3.1\designpatters.runtimeconfig.dev.json
+C:\Users\Majed_Samyal\source\repos\designpatterns\bin\Debug\netcoreapp3.1\designpatters.dll
+C:\Users\Majed_Samyal\source\repos\designpatterns\bin\Debug\netcoreapp3.1\designpatters.pdb
+C:\Users\Majed_Samyal\source\repos\designpatterns\bin\Debug\netcoreapp3.1\Patterns.dll
+C:\Users\Majed_Samyal\source\repos\designpatterns\bin\Debug\netcoreapp3.1\Patterns.pdb
+C:\Users\Majed_Samyal\source\repos\designpatterns\obj\Debug\netcoreapp3.1\designpatters.csproj.CopyComplete
+C:\Users\Majed_Samyal\source\repos\designpatterns\obj\Debug\netcoreapp3.1\designpatters.dll
+C:\Users\Majed_Samyal\source\repos\designpatterns\obj\Debug\netcoreapp3.1\designpatters.pdb
+C:\Users\Majed_Samyal\source\repos\designpatterns\obj\Debug\netcoreapp3.1\designpatters.genruntimeconfig.cache
